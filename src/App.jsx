@@ -1,4 +1,4 @@
-import ControlGastos from "./ControlGastos";
+import ControlGastos from "./components/ControlGastos";
 
 function App() {
   return <ControlGastos />;
